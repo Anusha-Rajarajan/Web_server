@@ -49,4 +49,9 @@ httpd.serve_forever()
 
 ```
 ## OUTPUT:
+
+![Output 1](./images/Output1.png)
+
 ## RESULT:
+
+ A simple webserver is created.
